@@ -1,6 +1,6 @@
 {
   "name": "react-fat",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fat texts that take the whole width",
   "main": "lib/index.js",
   "module": "es/index.js",
