@@ -5,6 +5,7 @@
 
 Responsive FAT texts component. Takes the whole available width.
 
+⚠️ doesnt work on Firefox at the moment (cf [Zoom property support](https://developer.mozilla.org/fr/docs/Web/CSS/zoom))
 
 ## Usage
 
