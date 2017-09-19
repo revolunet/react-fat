@@ -1,5 +1,6 @@
 import React, { Component } from "react"
 import { render } from "react-dom"
+import GithubCorner from 'react-github-corner'
 
 import Fat from "../../src"
 
@@ -18,6 +19,7 @@ const Demo = () => (
       textAlign: 'center'
     }}
   >
+    <GithubCorner href="https://github.com/revolunet/react-fat" />
     <div
       style={{
         borderTop: '20px solid rgb(226,33,33)',
